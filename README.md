@@ -1,6 +1,12 @@
 # CUN
 It's not useful repository
 
+<style>
+    img {
+        width:100%;
+    }
+</style>
+
 <h1>This repository is only used for learning</h1>
 <div>
     <p style="color:red">Don't look at me, I'm just a joke</p>
